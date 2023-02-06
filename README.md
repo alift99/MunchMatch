@@ -10,7 +10,7 @@ MunchMatch offers a user-journey designed for speed and ease of use, first provi
 
 The relevant restaurants are then displayed in a grid, along with their best attributes as identified by the Aspect Based Sentiment Analysis, as well as other useful information such as rating, price range, and cuisines offered. This succinct summary of restaurants provides plenty of information to aid users in making their decision.
 
-Lastly, MunchMatch also provides users with the option of performing side-by-side comparisons, allowing even the more indecisive eaters to find their ideal dining occasion.
+Lastly, MunchMatch also provides users with the option of performing detailed side-by-side restaurant comparisons, allowing even the more indecisive eaters to find their ideal dining experience.
 
 
 Acknowledgements:
