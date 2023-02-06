@@ -1,0 +1,23 @@
+AI
+-Web Scrape data from Tripadvisor (DONE)
+-Fix SenticGCN bug (DONE)
+-Semantic Search Embeddings (DONE)
+-Search functionality (DONE)
+-Make search faster
+
+Home page
+
+Search results
+-Support new restaurant data (DONE)
+-Clickable cards (DONE)
+-Filtering functionality (DONT NEED)
+
+Side-by-side comparison
+-Front-end
+-Routing
+
+Write report
+
+Edit Video
+
+Submit Project
